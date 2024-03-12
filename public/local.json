@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_image": "https://ibb.co/BT6x3fn",
+      "title": "The Art of Programming",
+      "author_image":"https://ibb.co/2kbc8gT",
+      "author": "John Smith",
+      "posted_date": "2024-03-12",
+      "reading_time": 20,
+      "hashtag": ["programming", "coding", "software"]
+    },
+    {
+      "id": 2,
+      "cover_image": "https://ibb.co/jwjJhxS",
+      "title": "Cooking with Spices",
+      "author": "Emily Jones",
+      "author_image":"https://ibb.co/S5frKxS",
+      "posted_date": "2024-03-11",
+      "reading_time": 15,
+      "hashtag": ["cooking", "spices", "recipes"]
+    },
+    {
+      "id": 3,
+      "cover_image": "https://ibb.co/6mbDWQC",
+      "title": "World History in Brief",
+      "author": "Michael Brown",
+      "author_image":"https://ibb.co/Ypvmgj3",
+      "posted_date": "2024-03-10",
+      "reading_time": 25,
+      "hashtag": ["history", "world", "civilizations"]
+    },
+    {
+      "id": 4,
+      "cover_image": "https://ibb.co/yfdgxDQ",
+      "title": "Fitness Fundamentals",
+      "author": "Sarah Johnson",
+      "author_image":"https://ibb.co/G7FwbJC",
+      "posted_date": "2024-03-09",
+      "reading_time": 30,
+      "hashtag": ["fitness", "exercise", "health"]
+    },
+    {
+      "id": 5,
+      "cover_image": "https://ibb.co/KbtV6vf",
+      "title": "Art of Meditation",
+      "author": "David Lee",
+      "author_image":"https://ibb.co/YbxFLpN",
+      "posted_date": "2024-03-08",
+      "reading_time": 10,
+      "hashtag": ["meditation", "mindfulness", "wellness"]
+    }
+  ]
+  
