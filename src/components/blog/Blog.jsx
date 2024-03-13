@@ -1,7 +1,13 @@
 import PropTypes from 'prop-types';
+import { useState } from 'react';
 import { FaRegBookmark } from "react-icons/fa";
 const Blog = ({blog, handleBookmark, handleReading}) => {
     // console.log(blog)
+    const [triger, setTriger] = useState(false);
+    const handleTrigger = (value) =>{
+        setTriger(value);
+    }
+    // -----
     const {id, title, cover_image, author, author_image, posted_date, reading_time, hashtag} = blog;
     return (
         <div className='space-y-3 mb-10'>
@@ -18,7 +24,7 @@ const Blog = ({blog, handleBookmark, handleReading}) => {
                 <div className='flex gap-3 items-center'>
                     <p className='text-gray-700 font-medium'>{reading_time} min read</p>
                     {/* <img src={bookmark} alt="" /> */}
-                    <button onClick={() => handleBookmark(blog)}><FaRegBookmark /></button>
+                    <button className={triger === true && 'text-green-500'} onClick={() => {handleBookmark(blog);handleTrigger(true)}}><FaRegBookmark /></button>
                 </div>
             </div>
             <h1 className='text-2xl font-bold'>{title}</h1>
