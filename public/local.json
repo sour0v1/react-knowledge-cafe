@@ -6,7 +6,7 @@
       "author_image":"https://i.ibb.co/wyYHxLp/pexels-elle-hughes-1680172.jpg",
       "author": "John Smith",
       "posted_date": "2024-03-12",
-      "reading_time": 20,
+      "reading_time": 5,
       "hashtag": ["programming", "coding", "software"]
     },
     {
@@ -16,7 +16,7 @@
       "author": "Emily Jones",
       "author_image":"https://i.ibb.co/t39TJ8H/pexels-andrea-piacquadio-874158.jpg",
       "posted_date": "2024-03-11",
-      "reading_time": 15,
+      "reading_time": 10,
       "hashtag": ["cooking", "spices", "recipes"]
     },
     {
@@ -26,7 +26,7 @@
       "author": "Michael Brown",
       "author_image":"https://i.ibb.co/18H1c2L/pexels-andrea-piacquadio-837306.jpg",
       "posted_date": "2024-03-10",
-      "reading_time": 25,
+      "reading_time": 5,
       "hashtag": ["history", "world", "civilizations"]
     },
     {
@@ -36,7 +36,7 @@
       "author": "Sarah Johnson",
       "author_image":"https://i.ibb.co/mbN8HBp/pexels-justin-shaifer-1222271.jpg",
       "posted_date": "2024-03-09",
-      "reading_time": 30,
+      "reading_time": 6,
       "hashtag": ["fitness", "exercise", "health"]
     },
     {
@@ -46,7 +46,7 @@
       "author": "David Lee",
       "author_image":"https://i.ibb.co/yQ3ghWr/pexels-simon-robben-614810.jpg",
       "posted_date": "2024-03-08",
-      "reading_time": 10,
+      "reading_time": 8,
       "hashtag": ["meditation", "mindfulness", "wellness"]
     }
   ]

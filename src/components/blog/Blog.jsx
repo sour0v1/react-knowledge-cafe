@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
-import bookmark from '../../assets/images/bookmark.png'
-const Blog = ({blog}) => {
-    console.log(blog)
+import { FaRegBookmark } from "react-icons/fa";
+const Blog = ({blog, handleBookmark}) => {
+    // console.log(blog)
     const {title, cover_image, author, author_image, posted_date, reading_time, hashtag} = blog;
     return (
         <div className='space-y-3 mb-10'>
@@ -16,8 +16,9 @@ const Blog = ({blog}) => {
                     </div>
                 </div>
                 <div className='flex gap-3 items-center'>
-                    <p className='text-gray-700 font-medium'>{reading_time}</p>
-                    <img src={bookmark} alt="" />
+                    <p className='text-gray-700 font-medium'>{reading_time} min read</p>
+                    {/* <img src={bookmark} alt="" /> */}
+                    <button onClick={() => handleBookmark(blog)}><FaRegBookmark /></button>
                 </div>
             </div>
             <h1 className='text-2xl font-bold'>{title}</h1>
@@ -34,7 +35,8 @@ const Blog = ({blog}) => {
 };
 
 Blog.propTypes = {
-    blog: PropTypes.object.isRequired
+    blog: PropTypes.object.isRequired,
+    handleBookmark: PropTypes.func.isRequired
 }
 
 export default Blog;
