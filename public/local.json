@@ -1,9 +1,9 @@
 [
     {
       "id": 1,
-      "cover_image": "https://ibb.co/BT6x3fn",
+      "cover_image": "https://i.ibb.co/fNTDMKs/flat-lay-workstation-with-copy-space-laptop.jpg",
       "title": "The Art of Programming",
-      "author_image":"https://ibb.co/2kbc8gT",
+      "author_image":"https://i.ibb.co/wyYHxLp/pexels-elle-hughes-1680172.jpg",
       "author": "John Smith",
       "posted_date": "2024-03-12",
       "reading_time": 20,
@@ -11,40 +11,40 @@
     },
     {
       "id": 2,
-      "cover_image": "https://ibb.co/jwjJhxS",
+      "cover_image": "https://i.ibb.co/sbTsjYN/hyggelab-concept-QNb-z-Qjp-SX0-unsplash.jpg",
       "title": "Cooking with Spices",
       "author": "Emily Jones",
-      "author_image":"https://ibb.co/S5frKxS",
+      "author_image":"https://i.ibb.co/t39TJ8H/pexels-andrea-piacquadio-874158.jpg",
       "posted_date": "2024-03-11",
       "reading_time": 15,
       "hashtag": ["cooking", "spices", "recipes"]
     },
     {
       "id": 3,
-      "cover_image": "https://ibb.co/6mbDWQC",
+      "cover_image": "https://i.ibb.co/HFBG90H/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
       "title": "World History in Brief",
       "author": "Michael Brown",
-      "author_image":"https://ibb.co/Ypvmgj3",
+      "author_image":"https://i.ibb.co/18H1c2L/pexels-andrea-piacquadio-837306.jpg",
       "posted_date": "2024-03-10",
       "reading_time": 25,
       "hashtag": ["history", "world", "civilizations"]
     },
     {
       "id": 4,
-      "cover_image": "https://ibb.co/yfdgxDQ",
+      "cover_image": "https://i.ibb.co/kx0qSZC/jeshoots-com-p-UAM5h-Pa-CRI-unsplash.jpg",
       "title": "Fitness Fundamentals",
       "author": "Sarah Johnson",
-      "author_image":"https://ibb.co/G7FwbJC",
+      "author_image":"https://i.ibb.co/mbN8HBp/pexels-justin-shaifer-1222271.jpg",
       "posted_date": "2024-03-09",
       "reading_time": 30,
       "hashtag": ["fitness", "exercise", "health"]
     },
     {
       "id": 5,
-      "cover_image": "https://ibb.co/KbtV6vf",
+      "cover_image": "https://i.ibb.co/gtWp9r4/andrijana-bozic-JKGq-JN4c-HOI-unsplash.jpg",
       "title": "Art of Meditation",
       "author": "David Lee",
-      "author_image":"https://ibb.co/YbxFLpN",
+      "author_image":"https://i.ibb.co/yQ3ghWr/pexels-simon-robben-614810.jpg",
       "posted_date": "2024-03-08",
       "reading_time": 10,
       "hashtag": ["meditation", "mindfulness", "wellness"]
